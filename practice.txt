@@ -1,0 +1,17 @@
+PD-38 To Do
+
+1. Create a feature branch following team naming convention
+
+2. Create a txt file with sample.txt and include sample text for test 
+
+3. Open a pull request with detailed description
+
+4. Respond to code review comments appropriately
+
+5. Successfully merge PR after approval
+
+6. Clean up branches post-merge
+
+7. Branch Naming Convention
+
+8. dev/<Engineer Initials>/<Jira Ticket Code> Example - dev/RM/PD-37
